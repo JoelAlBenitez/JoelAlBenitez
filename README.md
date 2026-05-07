@@ -15,31 +15,41 @@ Estudiante de 5to cuatrimestre en **ITLA**, enfocado en la construcción de solu
 
 ## 🏗️ Architectural Stack & Skills
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend & Core** | `.NET 8/9+`, `C#`, `Java`, `Node.js` |
-| **Frontend & UX** | `Angular`, `React`, `Blazor`, `Tailwind CSS`, `Figma` |
-| **Data Architecture** | `SQL Server`, `Oracle DB`,  `Entity Framework` |
-| **Infrastructure** | `Git`, `Docker (en aprendizaje)`, `DevOps Pipelines (en aprendizaje)`, `Microservices(en aprendizaje)` |
+### 🖥️ Backend & Core
+![.NET](https://img.shields.io/badge/.NET%208/9-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### 🎨 Frontend & UX/UI
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🗄️ Data Architecture
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### ⚙️ Infrastructure & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🚀 Key Projects & Initiatives
 * **AeroVeloz / SIV:** Sistema de información de vuelos diseñado bajo *Clean Architecture*.
 * **SmartSave:** Aplicación de finanzas personales enfocada en escalabilidad con .Net/Angular.
 * **El Kernel Research Group:** Liderazgo técnico en el desarrollo de la plataforma web del grupo de investigación.
+* **BreastIA:** Aplicación desarrollada con una integración con IA capaz de analizar y detectar anomalias referente a cáncer de mama o turmores.
 
-## Key projects under development
-* **Sistema Bibliotecario**
-* **Sistema de Gestión educativa**
-* **Sistema de Alertas Referentes a Desastres Naturales**
-
----
 
 ## 📊 Performance & Ecosystem
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelAlBenitez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelAlBenitez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoelAlBenitez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoelAlBenitez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
