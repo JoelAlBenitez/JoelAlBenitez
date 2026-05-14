@@ -1,19 +1,19 @@
-# 👨‍💻 Software Architect in Training | .NET Ecosystem Expert
+# 👨‍💻Arquitecto de software en formación | Experto en el ecosistema .NET
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Joel%20Benitez&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-## 🎯 Professional Profile
+## 🎯 Perfil Profesional
 Estudiante de Desarrollo de Software, enfocado en la construcción de soluciones escalables y sostenibles. Mi enfoque va más allá del código: diseño arquitecturas robustas bajo el ecosistema **.NET**, integrando principios de **UX/UI** para garantizar productos funcionales y de alta usabilidad.
 
-* 📚 **Focus:** Microservicios, Cloud Native y Clean Architecture.
-* 🛠️ **Current Research:** Optimización de APIs y flujos de CI/CD (DevOps).
-* 🏛️ **Philosophy:** Diseño basado en principios SOLID, DRY y patrones de diseño.
+* 📚 **Enfoque:** Microservicios, Cloud Native y Architectura de software basadas en .NET 
+* 🛠️ **Investigación actual:** Optimización de APIs y flujos de CI/CD (DevOps)
+* 🏛️ **Filosofía:** Diseño basado en principios SOLID, DRY y patrones de diseño
 
 ---
 
-## 🏗️ Architectural Stack & Skills
+## 🏗️ Stack Arquitectura y Skills Tecnologicas 
 
 ### 🖥️ Backend & Core
 ![.NET](https://img.shields.io/badge/.NET%208/9-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -39,14 +39,14 @@ Estudiante de Desarrollo de Software, enfocado en la construcción de soluciones
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-## 🚀 Key Projects & Initiatives
+## 🚀 Proyectos claves e Iniciativas
 * **AeroVeloz / SIV:** Sistema de información de vuelos diseñado bajo *Clean Architecture*.
 * **SmartSave:** Aplicación de finanzas personales enfocada en escalabilidad con .Net/Angular.
 * **El Kernel Research Group:** Liderazgo técnico en el desarrollo de la plataforma web del grupo de investigación.
 * **BreastIA:** Aplicación desarrollada con una integración con IA capaz de analizar y detectar anomalias referente a cáncer de mama o turmores.
 
 
-## 📊 Performance & Ecosystem
+## 📊 Rendimiento y ecosistema
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoelAlBenitez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoelAlBenitez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
@@ -58,7 +58,7 @@ Estudiante de Desarrollo de Software, enfocado en la construcción de soluciones
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Contactos 
 <p align="left">
   <a href="https://linkedin.com/in/joelabenitez-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
