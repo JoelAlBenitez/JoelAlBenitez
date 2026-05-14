@@ -5,7 +5,7 @@
 </p>
 
 ## 🎯 Professional Profile
-Estudiante de 5to cuatrimestre en **ITLA**, enfocado en la construcción de soluciones escalables y sostenibles. Mi enfoque va más allá del código: diseño arquitecturas robustas bajo el ecosistema **.NET**, integrando principios de **UX/UI** para garantizar productos funcionales y de alta usabilidad.
+Estudiante de Desarrollo de Software, enfocado en la construcción de soluciones escalables y sostenibles. Mi enfoque va más allá del código: diseño arquitecturas robustas bajo el ecosistema **.NET**, integrando principios de **UX/UI** para garantizar productos funcionales y de alta usabilidad.
 
 * 📚 **Focus:** Microservicios, Cloud Native y Clean Architecture.
 * 🛠️ **Current Research:** Optimización de APIs y flujos de CI/CD (DevOps).
